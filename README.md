@@ -1,2 +1,2 @@
 # TuTorial-Bot--Koilo
-A basic discord for starters
+A basic discord bot for starters
